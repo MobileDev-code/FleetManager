@@ -22,6 +22,6 @@
 ## Assumptions
 
 1. Went with the data model as provided, but it would have been cleaner to have separate data models for the Driver and Shipment with unique ids
-2. Y is sometimes considered a vowel.  To keep this exercise simple it considers the standard letrers aeiou as vowels
+2. Y is sometimes considered a vowel.  To keep this exercise simple it considers the standard letters aeiou as vowels
 
 
